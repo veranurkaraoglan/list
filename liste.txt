@@ -1,5 +1,5 @@
-1  yazı renkleri değistirebilir
-2 yazı puntosu oynanabilir
 3 görsel eklemeler yapılabilir
+2 yazı puntosu oynanabilir
+1  yazı renkleri değistirebilir
 4 yapay zeka desteklidir
 5 sesli komut desteği vardır
